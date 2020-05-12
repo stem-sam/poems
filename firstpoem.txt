@@ -1,1 +1,4 @@
 Roses are red
+Next line
+SWC fine
+Now let's dine
